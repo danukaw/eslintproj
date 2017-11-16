@@ -4,6 +4,8 @@ const obj = {
   age: 26
 };
 
+document.write(boo);
+
 const value = new Promise((resolve, reject) => {
   resolve('Some date');
 });
